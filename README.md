@@ -1,2 +1,2 @@
 # Command-Line-for-Librarians
-This repository is for librarians who want to better understand what the command line is and how using it can enhance core aspects of their professional practice—from supporting complex research initiatives and managing data‑intensive inquiries to streamlining repetitive workflows.  
+This repository is resource for librarians who want to learn the command line in order to enhance their professional practice. Here you will find resource guides, project-based command line tutorials that algin with real-world library scenarios, and links to alternative knowledge repositories. 
