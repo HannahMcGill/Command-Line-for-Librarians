@@ -11,7 +11,12 @@ Choose the version that matches your operating system:
 After downloading:
 1. Unzip the file
 2. Move the project folder to your Desktop
-3. Open Terminal (macOS) or Git Bash (Windows)
-4. Start with the README inside the project folder
+3. Start with the README inside the project folder
 
 Tip: You do NOT need to download the entire repository to use these projects.
+
+📘 Command Line Reference
+
+Download a printable PDF reference of all command line tools used across the projects:
+
+→ Command-Line-Reference-for-Librarians.pdf
