@@ -1,19 +1,59 @@
-⬇️ Download Project Files Here
-==============================
+⬇️ How to Download Project Files from GitHub
+============================================
 
-Each project is available as a ZIP file.
+Each project in this folder is provided as a ZIP file.
 
-Choose the version that matches your operating system:
+Because of how GitHub works, ZIP files do NOT always download when you click on them.
+Follow the steps below to download successfully.
 
-- macOS → files labeled *macOS.zip*
-- Windows → files labeled *windows.zip*
+---
 
-After downloading:
-1. Unzip the file
-2. Move the project folder to your Desktop
-3. Start with the README inside the project folder
+✅ Recommended Method (Works Every Time)
 
-Tip: You do NOT need to download the entire repository to use these projects.
+1️⃣ Locate the ZIP file you want to download  
+   (for example: CL_1_mac.zip)
+
+2️⃣ Right‑click (or Control‑click) the ZIP file
+
+3️⃣ Select:
+   “Save Link As…”
+
+4️⃣ Choose where to save the file on your computer
+   (Desktop is recommended)
+
+5️⃣ Once downloaded, double‑click the ZIP file to unzip it
+
+---
+
+✅ Alternative Method
+
+If you click a ZIP file and GitHub opens a preview page:
+
+1️⃣ Look for the “Download” button on the right side of the page
+2️⃣ Click “Download”
+3️⃣ The ZIP file will download to your computer
+
+---
+
+💡 Tip
+
+You do NOT need to download the entire repository to use these projects.
+You can download and work with each project individually.
+
+Choose the ZIP file that matches your operating system:
+- macOS users → files ending in “-macOS.zip”
+- Windows users → files ending in “-windows.zip”
+
+---
+
+🚀 After Downloading
+
+1️⃣ Unzip the project folder
+2️⃣ Move it to your Desktop
+3️⃣ Open the folder.
+4️⃣ Start with the README inside the project folder
+
+Happy learning!
 
 📘 Command Line Reference
 
