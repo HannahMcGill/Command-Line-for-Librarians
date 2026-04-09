@@ -71,7 +71,7 @@ After that, the projects are **modular**—you can work through them in any orde
 
 ---
 
-## 💻 macOS AND Windows Support
+### 💻 macOS AND Windows Support
 
 ✅ Each project is available in **two versions**:
 
