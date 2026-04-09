@@ -128,5 +128,5 @@ This repository is meant to be:
 - reusable
 - and community‑driven
 
-If you have any ideas about how to nurture this repository, or if you would like to be more involved with the growth of this endeavour, please consider contributing! We welcome all to the cult of the command line.
+**If you have any ideas about how to nurture this repository, or if you would like to be more involved with the growth of this endeavour, please consider contributing! We welcome all to the cult of the command line.** 🐙
 
