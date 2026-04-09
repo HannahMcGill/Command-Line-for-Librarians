@@ -17,7 +17,7 @@ When you open **Terminal** on macOS or **Git Bash** on Windows, you are opening 
 - The shell reads that command
 - The shell tells the computer what to do
 
-In simple terms:
+Put plainly:
 
 - The **command line** is the *interface* — the place where you type.
 - The **shell** is the *interpreter* — the program that understands your commands and executes them.
