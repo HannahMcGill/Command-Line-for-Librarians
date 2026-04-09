@@ -17,19 +17,9 @@ Contributing to this repository can help you:
 🤝 Contribute to a growing community of practice  
 📝 Demonstrate applied skills for portfolios or professional development  
 
-Creating a project was one of the most helpful learning experiences during development of this repository — and the same can be true for you.
-
 ---
 
-🧰 What Kinds of Contributions Are Welcome?
-
-✅ New self‑guided command line projects  
-✅ Ideas for projects (even if they aren’t fully written yet!)  
-✅ Improvements or clarifications to existing projects  
-✅ Platform adaptations (macOS ↔ Windows / Git Bash)  
-✅ Documentation, examples, or learning aids  
-
-Projects should be:
+🧰 Projects should be:
 - library‑relevant
 - task‑based
 - reproducible
@@ -97,8 +87,6 @@ If your project supports only one platform, please state that clearly.
 
 We use **GitHub Issues** to manage project submissions.
 
-You do NOT need to submit a pull request to start contributing.
-
 ### Step‑by‑step:
 
 1️⃣ Go to the **Issues** tab  
@@ -118,12 +106,10 @@ Maintainers will follow up on next steps.
 
 💡 Styling & Writing Tips
 
-✨ Write as if you are guiding someone sitting next to you  
+✨ Write as clearly as possible. 
 💡 Explain *why* alongside *what*  
-✅ Keep commands copy‑paste friendly  
-📎 Assume learners may feel uncertain — encourage them  
-
-Friendly emojis are welcome, but not required 🙂
+✅ Keep commands copy‑paste friendly. Hold off on using quotation marks or additional characters that are not part of the commands, because those additional characters can be confusing.
+🙂 Friendly emojis are welcome, but not required 
 
 ---
 
@@ -132,6 +118,6 @@ Friendly emojis are welcome, but not required 🙂
 This repository grows when people share their learning.
 
 Even a small, imperfect project can be valuable to someone else.  
-If you found this repository helpful, contributing back is a powerful next step.
+If you found this repository helpful, contributing a project of your own is a powerful next step.
 
 We’re glad you’re here 🚀
