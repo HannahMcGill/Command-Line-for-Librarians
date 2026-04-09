@@ -116,8 +116,7 @@ Contributions are **strongly encouraged**.
 
 Creating your **own command line project** is one of the best ways to learn. (Building these projects was one of the most helpful learning experiences for me.)
 
-Take a look at CONTRIBUTING.txt for more details on how to help grow the repository!
-``
+Take a look at [CONTRIBUTING.txt](CONTRIBUTING.txt) for more details on how to help grow the repository!
 
 Sharing even a small project helps others learn—and helps you learn too.
 ---
