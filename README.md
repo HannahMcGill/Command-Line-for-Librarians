@@ -62,16 +62,19 @@ The workflows are the same, but installation steps and tools (like package manag
 
 🚀 How to Get Started
 
-1️⃣ Download a project file from the [downloads folder](downloads/).  
-   (Look for the macOS or Windows version you need.)
+1️⃣ Go to the downloads folder and locate the ZIP file for the project you want.  
+   (Choose the macOS or Windows version that matches your system.)
 
-2️⃣ Move the downloaded **zipped folder** to your Desktop.
+2️⃣ Download the ZIP file:  
+   - **Right‑click (or Control‑click)** the ZIP file and choose **“Save Link As…”**, **or**  
+   - Left‑click the file and then click the **Download** button on the right.
 
-3️⃣ Unzip the folder.
+3️⃣ Move the downloaded ZIP file to your Desktop.
 
-4️⃣ Open the folder using the traditional point and click method.
+4️⃣ Double‑click the ZIP file to unzip it.
 
-5️⃣ **Start with the README** in the project folder and follow the instructions step by step.
+5️⃣ Open the unzipped project folder and **start with the README** inside.  
+   Follow the instructions step by step for self‑guided practice.
 
 ---
 
