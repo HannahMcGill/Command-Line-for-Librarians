@@ -7,7 +7,7 @@ These projects focus on **library-relevant tasks** and not abstract exercises.
 
 ---
 
-🧠 Why Command Line (Especially for Librarians)?
+🧠 Why Learn Command Line?
 
 Command line tools can help librarians:
 
