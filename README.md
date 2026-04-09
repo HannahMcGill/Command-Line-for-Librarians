@@ -119,9 +119,9 @@ If you prefer browsing files directly:
 
 ## 🛠️ Reference Materials
 
-This repository includes a reference list of essential command line tools used across the projects, which you can download from the [downloads folder](downloads/).
+This repository includes **a reference list of essential command line tools** used across the projects, which you can download from the [downloads folder](downloads/).
 
-If you are interested in exploring command line from a scholarly perspective, you can peruse the public Zotero group created to inform this project at your leisure:
+If you are interested in exploring command line from a scholarly perspective, you can peruse the **public Zotero group** created to inform this project at your leisure:
 
 - https://www.zotero.org/groups/6376681/command_line_for_librarians
 
