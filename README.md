@@ -155,9 +155,9 @@ If you are interested in more opportunities for self study related to the Unix S
 
 Learning the command line does not mean memorizing every command or solving every problem on your own. In practice, effective command line users regularly consult external resources when they:
 
-- have an idea for a project and need help figuring out *how* to make it happen
-- encounter an error message they have not seen before
-- want to refine, automate, or optimize an existing workflow
+- Have an idea for a project and need help figuring out *how* to make it happen
+- Encounter an error message they have not seen before
+- Want to refine, automate, or optimize an existing workflow
 
 The resources below are commonly used by professionals and learners alike.
 
