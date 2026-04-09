@@ -160,7 +160,7 @@ If you are interested in more opportunities for self study related to the Unix S
 
 Contributions are **strongly encouraged**.
 
-Creating your **own command line project** is one of the best ways to learn and to give back to this community of practice.
+**Creating your own command line project** is one of the best ways to learn and to give back to this community of practice.
 
 Take a look at [CONTRIBUTING.txt](CONTRIBUTING.txt) for more details on how to help grow the repository!
 
