@@ -11,16 +11,13 @@ These projects focus on **library-relevant tasks** and not abstract exercises.
 
 The **command line** is a way of interacting with your computer by typing instructions as text instead of clicking buttons or menus.
 
-When you open **Terminal** on macOS or **Git Bash** on Windows, you are opening a program that runs a **shell**.
+When you want to use the command line, you open a program on your computer (**Terminal** on a Mac or something like **Git Bash** on a Windows machine) and that program runs what’s called a shell.
+  - Terminal is included with all Mac Computers
+  - Git Bash needs to be downloaded to Windows computers. **For more information on how to download and install Git Bash, see the PDF guide in the [downloads folder](downloads/) folder.
 
-- You type a command
-- The shell reads that command
-- The shell tells the computer what to do
+The **shell** is the program that receives your typed commands and carries them out.
 
-Put plainly:
-
-- The **command line** is the *interface* — the place where you type.
-- The **shell** is the *interpreter* — the program that understands your commands and executes them.
+The command line is the interface — the place where you type. The shell is the interpreter — the translator that understands your commands and executes them.
 
 The command line is especially useful when you want to:
 - Work with lots of files at once
