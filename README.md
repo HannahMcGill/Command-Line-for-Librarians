@@ -7,6 +7,28 @@ These projects focus on **library-relevant tasks** and not abstract exercises.
 
 ---
 
+## 💻 What Is the Command Line?
+
+The **command line** is a way of interacting with your computer by typing instructions as text instead of clicking buttons or menus.
+
+When you open **Terminal** on macOS or **Git Bash** on Windows, you are opening a program that runs a **shell**.
+
+- You type a command
+- The shell reads that command
+- The shell tells the computer what to do
+
+In simple terms:
+
+- The **command line** is the *interface* — the place where you type.
+- The **shell** is the *interpreter* — the program that understands your commands and executes them.
+
+The command line is especially useful when you want to:
+- Work with lots of files at once
+- Repeat the same task many times
+- Work directly with data
+
+---
+
 🧠 Why Learn Command Line?
 
 Command line tools can help librarians:
