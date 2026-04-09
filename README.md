@@ -62,7 +62,7 @@ The workflows are the same, but installation steps and tools (like package manag
 
 🚀 How to Get Started
 
-1️⃣ Go to the downloads folder and locate the ZIP file for the project you want.  
+1️⃣ Go to the [downloads folder](downloads/) and locate the ZIP file for the project you want.  
    (Choose the macOS or Windows version that matches your system.)
 
 2️⃣ Download the ZIP file:  
@@ -75,7 +75,6 @@ The workflows are the same, but installation steps and tools (like package manag
 
 5️⃣ Open the unzipped project folder and **start with the README** inside.  
    Follow the instructions step by step for self‑guided practice.
-
 ---
 
 🛠️ Reference Materials
