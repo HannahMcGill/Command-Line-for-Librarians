@@ -62,7 +62,7 @@ The workflows are the same, but installation steps and tools (like package manag
 
 🚀 How to Get Started
 
-1️⃣ Download the project files from this repository  
+1️⃣ Download a project file from this repository  
    (Look for the macOS or Windows version you need.)
 
 2️⃣ Move the downloaded **zipped folder** to your Desktop.
