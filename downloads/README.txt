@@ -53,10 +53,10 @@ Choose the ZIP file that matches your operating system:
 3️⃣ Open the folder.
 4️⃣ Start with the README inside the project folder
 
-Happy learning!
 
-📘 Command Line Reference
+📘 Additional Resources to Download
 
-Download a printable PDF reference of all command line tools used across the projects:
+In addition to the project files, you can also download:
 
-→ Command-Line-Reference-for-Librarians.pdf
+→ A Command Refernce List that identifies the fundamental commands used throughout these projects and explains how to use them.
+→ Instructions for how to download Git Bash, which is the easiest way for Windows users to access the command line.
