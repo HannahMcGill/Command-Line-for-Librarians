@@ -29,7 +29,7 @@ The command line is especially useful when you want to:
 
 ---
 
-🧠 Why Learn Command Line?
+🧠 Why Learn Command Line (If you are a Librarian)?
 
 Command line tools can help librarians:
 
