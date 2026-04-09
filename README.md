@@ -21,7 +21,7 @@ Command line tools can help librarians:
   - assessment and reporting
 - better understand the tools researchers use
 
-**You don’t need to become a command line expert to use command line effectively!**  comfortable enough to **get things done**.
+**You don’t need to become a command line expert (or a programmer!) to use command line effectively!** After completing a single 40-minute long, self-guided tutorial, you will have the fundamentals you need to use command line in the library.
 
 ---
 
