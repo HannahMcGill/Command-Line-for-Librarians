@@ -1,7 +1,7 @@
-📚 Command Line Projects for Librarians
-======================================
+📚 Command Line Projects for Librarians 📚
+==========================================
 
-👋 Welcome! This repository contains a collection of **self-guided command line projects** designed specifically for librarians, library workers, and LIS students who want hands-on, practical experience using the command line in library-relevant contexts.
+👋 Welcome! This repository contains a collection of **self-guided, introductory tutorials** designed specifically for librarians, library workers, and LIS students who want to explore the ways that command line can be useful in the library through hands-on, project-based learning.
 
 These projects focus on **real tasks**—working with data, APIs, metadata, images, and files—not abstract exercises.
 
