@@ -13,7 +13,7 @@ The **command line** is a way of interacting with your computer by typing instru
 
 When you want to use the command line, you open a program on your computer (**Terminal** on a Mac or something like **Git Bash** on a Windows machine) and that program runs what’s called a shell.
   - Terminal is included with all Mac Computers
-  - Git Bash needs to be downloaded to Windows computers. **For more information on how to download and install Git Bash, see the PDF guide in the [downloads folder](downloads/) folder.
+  - Git Bash needs to be downloaded to Windows computers. **For more information on how to download and install Git Bash, see the PDF guide in the [downloads folder](downloads/).
 
 The **shell** is the program that receives your typed commands and carries them out.
 
