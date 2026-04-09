@@ -1,0 +1,66 @@
+name: 📁 New Command Line Project Proposal
+description: Propose a new self-guided command line project for librarians
+title: "CL_X: [Project Title]"
+labels: ["new-project"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for proposing a new command line project!
+        Ideas and drafts are absolutely welcome.
+
+  - type: input
+    id: title
+    attributes:
+      label: Project Title
+      placeholder: CL_6 – Analyze Usage Data with Shell Tools
+    validations:
+      required: true
+
+  - type: textarea
+    id: learning_goal
+    attributes:
+      label: Learning Goal
+      description: What will someone be able to do after completing this project?
+    validations:
+      required: true
+
+  - type: textarea
+    id: library_context
+    attributes:
+      label: Library Context
+      description: What type of library work does this project support?
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: platforms
+    attributes:
+      label: Platform Support
+      options:
+        - label: macOS
+        - label: Windows (Git Bash)
+
+  - type: textarea
+    id: tools
+    attributes:
+      label: Command Line Tools Used
+      description: List key commands and tools (e.g., cd, curl, jq).
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: Project Status
+      options:
+        - Idea
+        - Draft
+        - Fully Written
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Optional context or questions.
