@@ -1,0 +1,137 @@
+🤝 Contributing to Command Line Projects for Librarians
+======================================================
+
+👋 Welcome! Thank you for your interest in contributing to this repository.
+
+This project is intentionally **community‑driven**. You do NOT need to be an expert in the command line to contribute — in fact, some of the best projects come from people who are still learning.
+
+---
+
+🌱 Why Contribute?
+
+Contributing to this repository can help you:
+
+✨ Learn the command line by teaching it to others  
+🧠 Deepen your understanding by breaking tasks into steps  
+📚 Build and share library‑relevant workflows  
+🤝 Contribute to a growing community of practice  
+📝 Demonstrate applied skills for portfolios or professional development  
+
+Creating a project was one of the most helpful learning experiences during development of this repository — and the same can be true for you.
+
+---
+
+🧰 What Kinds of Contributions Are Welcome?
+
+✅ New self‑guided command line projects  
+✅ Ideas for projects (even if they aren’t fully written yet!)  
+✅ Improvements or clarifications to existing projects  
+✅ Platform adaptations (macOS ↔ Windows / Git Bash)  
+✅ Documentation, examples, or learning aids  
+
+Projects should be:
+- library‑relevant
+- task‑based
+- reproducible
+- designed for beginners or early‑intermediate learners
+
+---
+
+🧭 How This Repository Is Structured
+
+This repository uses a **download‑first model**.
+
+Learners typically:
+1️⃣ Download a ZIP file for a single project  
+2️⃣ Unzip it locally  
+3️⃣ Follow step‑by‑step `readme.txt` files  
+
+Because of this, contributions focus on:
+- project ZIPs
+- clear instructions
+- learner experience
+
+---
+
+🧩 What a Project Should Look Like
+
+A command line project should include:
+
+📁 A parent project folder  
+📁 Subfolders for each *step* in the workflow  
+📄 A `readme.txt` file in **every** step folder  
+
+Example project structure:
+
+CL_X-example-project/
+├── 01_setup/
+│   └── readme.txt
+├── 02_download/
+│   └── readme.txt
+├── 03_process/
+│   └── readme.txt
+└── 04_output/
+    └── readme.txt
+
+Each `readme.txt` should:
+- explain exactly what to type
+- explain *why* you are doing it
+- assume no prior command line expertise
+
+---
+
+💻 Platform Support
+
+Projects may support:
+- macOS
+- Windows (Git Bash)
+- or both
+
+✨ Supporting both platforms is wonderful — but not required.
+
+If your project supports only one platform, please state that clearly.
+
+---
+
+🚀 How to Submit a Contribution
+
+We use **GitHub Issues** to manage project submissions.
+
+You do NOT need to submit a pull request to start contributing.
+
+### Step‑by‑step:
+
+1️⃣ Go to the **Issues** tab  
+2️⃣ Click **New Issue**  
+3️⃣ Select **📁 New Command Line Project Proposal**  
+4️⃣ Fill out the form  
+5️⃣ Submit  
+
+✨ You can submit:
+- a finished project
+- a draft
+- or just an idea you want feedback on
+
+Maintainers will follow up on next steps.
+
+---
+
+💡 Styling & Writing Tips
+
+✨ Write as if you are guiding someone sitting next to you  
+💡 Explain *why* alongside *what*  
+✅ Keep commands copy‑paste friendly  
+📎 Assume learners may feel uncertain — encourage them  
+
+Friendly emojis are welcome, but not required 🙂
+
+---
+
+🎉 Final Note
+
+This repository grows when people share their learning.
+
+Even a small, imperfect project can be valuable to someone else.  
+If you found this repository helpful, contributing back is a powerful next step.
+
+We’re glad you’re here 🚀
