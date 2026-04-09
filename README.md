@@ -62,7 +62,7 @@ The workflows are the same, but installation steps and tools (like package manag
 
 🚀 How to Get Started
 
-1️⃣ Download a project file from this repository  
+1️⃣ Download a project file from the [downloads folder](downloads/).  
    (Look for the macOS or Windows version you need.)
 
 2️⃣ Move the downloaded **zipped folder** to your Desktop.
@@ -77,7 +77,7 @@ The workflows are the same, but installation steps and tools (like package manag
 
 🛠️ Reference Materials
 
-This repository also includes a **reference list of essential command line tools** used across the projects, which you will also find **in the downloads folder.**
+This repository includes a reference list of essential command line tools used across the projects, which you can download from the [downloads folder](downloads/).
 
 If you want to learn more or go deeper, these external resources are available online and for free:
 
