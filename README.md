@@ -118,24 +118,6 @@ Creating your **own command line project** is one of the best ways to learn. (Bu
 
 Take a look at [CONTRIBUTING.txt](CONTRIBUTING.txt) for more details on how to help grow the repository!
 
-Sharing even a small project helps others learn—and helps you learn too.
----
-
-🧩 How to Add Your Own Project (You Can Do ALL of This with Command Line!)
-
-1️⃣ Create a **parent project folder**
-
-2️⃣ Add subfolders for each step of your project
-
-3️⃣ Put a `readme.txt` file in each folder with clear instructions to follow
-
-4️⃣ Structure your project so someone else can work through it step by step
-
-5️⃣ Submit your idea or project using GitHub:
-   - Add contribution → Open Issue → Fill out the form → Submit
-
-Sharing even a small project helps others learn—and helps you learn too.
-
 ---
 
 🎉 Final Note
