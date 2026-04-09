@@ -47,7 +47,7 @@ Command line tools can help librarians:
 
 ---
 
-🧭 What’s in This Repository?
+## 🧭 What’s in This Repository?
 
 This repository currently includes **five self‑guided command line projects**:
 
@@ -71,7 +71,7 @@ After that, the projects are **modular**—you can work through them in any orde
 
 ---
 
-💻 macOS AND Windows Support
+## 💻 macOS AND Windows Support
 
 ✅ Each project is available in **two versions**:
 
@@ -117,11 +117,15 @@ If you prefer browsing files directly:
 
 ---
 
-🛠️ Reference Materials
+## 🛠️ Reference Materials
 
 This repository includes a reference list of essential command line tools used across the projects, which you can download from the [downloads folder](downloads/).
 
-If you want to learn more or go deeper, these external resources are available online and for free:
+If you are interested in exploring command line from a scholarly perspective, you can peruse the public Zotero group created to inform this project at your leisure:
+
+- https://www.zotero.org/groups/6376681/command_line_for_librarians
+
+If you are interested in more opportunities for self study related to the Unix Shell and/or the command line, **these external resources are available online and for free:**
 
 - Library Carpentry – Unix Shell  
   https://librarycarpentry.github.io/lc-shell/
@@ -152,7 +156,7 @@ If you want to learn more or go deeper, these external resources are available o
 
 ---
 
-🌱 Want to Contribute? (Yes, Please!)
+## 🌱 Want to Contribute? (Yes, Please!)
 
 Contributions are **strongly encouraged**.
 
@@ -162,7 +166,7 @@ Take a look at [CONTRIBUTING.txt](CONTRIBUTING.txt) for more details on how to h
 
 ---
 
-🎉 Final Note
+## 🎉 Final Note
 
 This repository is meant to be:
 - Practical
