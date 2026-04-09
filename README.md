@@ -59,7 +59,6 @@ After that, the projects are **modular**—you can work through them in any orde
 The workflows are the same, but installation steps and tools (like package managers and text editors) are tailored to each operating system.
 
 ---
-
 🚀 How to Get Started
 
 1️⃣ Go to the [downloads folder](downloads/) and locate the ZIP file for the project you want.  
@@ -75,6 +74,7 @@ The workflows are the same, but installation steps and tools (like package manag
 
 5️⃣ Open the unzipped project folder and **start with the README** inside.  
    Follow the instructions step by step for self‑guided practice.
+
 ---
 
 🛠️ Reference Materials
