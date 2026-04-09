@@ -33,15 +33,15 @@ The command line is especially useful when you want to:
 
 Command line tools can help librarians:
 
-- work with **large datasets and metadata**
-- automate **repetitive or time‑consuming tasks**
-- interact with **APIs** (catalogues, OpenAlex, ORCID, MeSH, etc.)
-- clean, transform, and analyze data for:
-  - research support
-  - collection development
-  - digital projects
-  - assessment and reporting
-- better understand the tools researchers use
+- Work with **large datasets and metadata**
+- Automate **repetitive or time‑consuming tasks**
+- Interact with **APIs** (catalogues, OpenAlex, ORCID, MeSH, etc.)
+- Clean, transform, and analyze data for:
+  - Research support
+  - Collection development
+  - Digital projects
+  - Assessment and reporting
+- Better understand the tools researchers use
 
 **You don’t need to become a command line expert (or a programmer!) to use command line effectively.** After completing a single 40-minute long, self-guided tutorial, you will have the fundamentals you need to use command line in the library.
 
@@ -165,10 +165,10 @@ Take a look at [CONTRIBUTING.txt](CONTRIBUTING.txt) for more details on how to h
 🎉 Final Note
 
 This repository is meant to be:
-- practical
-- welcoming
-- reusable
-- and community‑driven
+- Practical
+- Welcoming
+- Reusable
+- Community‑driven
 
 **If you have any ideas about how to nurture this repository, or if you would like to be more involved with the growth of this endeavour, please consider contributing! We welcome all to the cult of the command line.** 🐙
 
