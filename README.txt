@@ -3,15 +3,7 @@
 
 👋 Welcome! This repository contains a collection of **self-guided, introductory tutorials** designed specifically for librarians, library workers, and LIS students who want to explore the ways that command line can be useful in the library through hands-on, project-based learning.
 
-These projects focus on **real tasks**—working with data, APIs, metadata, images, and files—not abstract exercises.
-
----
-
-✨ About This Project
-
-This project was developed at **McGill University** by **Hannah Nelson-Teutsch**, a student in the **School of Information Studies**, working under the supervision of **Clara Turp** and **Alisa Rod** (McGill Librarians).
-
-The goal is to make the command line **approachable, useful, and empowering** for library work.
+These projects focus on **library-relevant tasks** and not abstract exercises.
 
 ---
 
@@ -29,7 +21,7 @@ Command line tools can help librarians:
   - assessment and reporting
 - better understand the tools researchers use
 
-You don’t need to become a programmer—just comfortable enough to **get things done**.
+**You don’t need to become a command line expert to use command line effectively!**  comfortable enough to **get things done**.
 
 ---
 
@@ -77,23 +69,17 @@ The workflows are the same, but installation steps and tools (like package manag
 
 3️⃣ Unzip the folder.
 
-4️⃣ Open your terminal:
-   - macOS → Terminal
-   - Windows → Git Bash
+4️⃣ Navigate into the project folder using the command line.
 
-5️⃣ Navigate into the project folder using the command line.
-
-6️⃣ **Start with the README** in the project folder and follow the instructions step by step.
-
-✨ Each project is designed for **self‑guided practice**—take your time, experiment, and rerun commands as needed.
+5️⃣ **Start with the README** in the project folder and follow the instructions step by step.
 
 ---
 
 🛠️ Reference Materials
 
-This repository also includes a **reference list of essential command line tools** used across the projects.
+This repository also includes a **reference list of essential command line tools** used across the projects, which you will also find **in the downloads folder.**
 
-If you want to learn more or go deeper, these external resources are excellent:
+If you want to learn more or go deeper, these external resources are available online and for free:
 
 - Library Carpentry – Unix Shell  
   https://librarycarpentry.github.io/lc-shell/
@@ -130,8 +116,9 @@ Contributions are **strongly encouraged**.
 
 Creating your **own command line project** is one of the best ways to learn. (Building these projects was one of the most helpful learning experiences for me.)
 
-✨ This repository can grow!
+**Take a look at CONTRIBUTING.txt** for more details on how to help grow the repository!
 
+Sharing even a small project helps others learn—and helps you learn too.
 ---
 
 🧩 How to Add Your Own Project (You Can Do ALL of This with Command Line!)
@@ -148,14 +135,6 @@ Creating your **own command line project** is one of the best ways to learn. (Bu
    - Add contribution → Open Issue → Fill out the form → Submit
 
 Sharing even a small project helps others learn—and helps you learn too.
-
----
-
-💡 Helpful Command Line Tips
-
-✨ Pressing **Tab** at any time will attempt to auto‑complete file and folder names.
-
-❗ Remember: `cd` only moves you **within folders that already exist** along your current path—you can’t jump to a folder that isn’t nested where you are.
 
 ---
 
