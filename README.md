@@ -69,7 +69,7 @@ The workflows are the same, but installation steps and tools (like package manag
 
 3️⃣ Unzip the folder.
 
-4️⃣ Navigate into the project folder using the command line.
+4️⃣ Open the folder using the traditional point and click method.
 
 5️⃣ **Start with the README** in the project folder and follow the instructions step by step.
 
